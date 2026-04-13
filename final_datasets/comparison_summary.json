@@ -1,0 +1,57 @@
+{
+  "arquivo_original": {
+    "path": "final_datasets\\instances_attributes_val2020_original.json",
+    "tamanho_bytes": 14533475,
+    "tamanho_mb": 13.86,
+    "chaves_topo": [
+      "annotations",
+      "attributes",
+      "categories",
+      "images",
+      "info",
+      "licenses"
+    ],
+    "campos_por_anotacao": [
+      "area",
+      "attribute_ids",
+      "bbox",
+      "category_id",
+      "id",
+      "image_id",
+      "iscrowd",
+      "segmentation"
+    ],
+    "num_annotations": 8781,
+    "num_images": 1158
+  },
+  "arquivo_limpo": {
+    "path": "final_datasets\\instances_attributes_val2020_clean.json",
+    "tamanho_bytes": 891555,
+    "tamanho_mb": 0.85,
+    "chaves_topo": [
+      "annotations",
+      "attributes",
+      "categories",
+      "info",
+      "licenses"
+    ],
+    "campos_por_anotacao": [
+      "attribute_ids",
+      "category_id",
+      "id",
+      "image_id",
+      "iscrowd"
+    ],
+    "num_annotations": 8781,
+    "num_images": "removido"
+  },
+  "reducao_tamanho_pct": 93.9,
+  "chaves_topo_removidas": [
+    "images"
+  ],
+  "campos_anotacao_removidos": [
+    "area",
+    "bbox",
+    "segmentation"
+  ]
+}

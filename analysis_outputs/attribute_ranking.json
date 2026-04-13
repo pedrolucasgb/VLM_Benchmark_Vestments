@@ -1,0 +1,1610 @@
+[
+  {
+    "id": 115,
+    "name": "symmetrical",
+    "count": 1895,
+    "pct": 0.09126812117709387
+  },
+  {
+    "id": 295,
+    "name": "no non-textile material",
+    "count": 1778,
+    "pct": 0.08563309733660839
+  },
+  {
+    "id": 317,
+    "name": "plain (pattern)",
+    "count": 1548,
+    "pct": 0.07455570004334634
+  },
+  {
+    "id": 316,
+    "name": "no special manufacturing technique",
+    "count": 1135,
+    "pct": 0.05466454751240187
+  },
+  {
+    "id": 204,
+    "name": "set-in sleeve",
+    "count": 846,
+    "pct": 0.04074555700043346
+  },
+  {
+    "id": 160,
+    "name": "wrist-length",
+    "count": 814,
+    "pct": 0.03920435389876222
+  },
+  {
+    "id": 136,
+    "name": "regular (fit)",
+    "count": 630,
+    "pct": 0.03034243606415258
+  },
+  {
+    "id": 142,
+    "name": "normal waist",
+    "count": 600,
+    "pct": 0.02889755815633579
+  },
+  {
+    "id": 145,
+    "name": "no waistline",
+    "count": 524,
+    "pct": 0.02523720078986659
+  },
+  {
+    "id": 146,
+    "name": "above-the-hip (length)",
+    "count": 506,
+    "pct": 0.024370274045176516
+  },
+  {
+    "id": 229,
+    "name": "zip-up",
+    "count": 493,
+    "pct": 0.023744160285122575
+  },
+  {
+    "id": 135,
+    "name": "tight (fit)",
+    "count": 437,
+    "pct": 0.0210470548571979
+  },
+  {
+    "id": 149,
+    "name": "mini (length)",
+    "count": 336,
+    "pct": 0.016182632567548042
+  },
+  {
+    "id": 157,
+    "name": "short (length)",
+    "count": 305,
+    "pct": 0.014689592062804027
+  },
+  {
+    "id": 141,
+    "name": "high waist",
+    "count": 304,
+    "pct": 0.0146414294658768
+  },
+  {
+    "id": 230,
+    "name": "fly (opening)",
+    "count": 297,
+    "pct": 0.014304291287386216
+  },
+  {
+    "id": 154,
+    "name": "maxi (length)",
+    "count": 256,
+    "pct": 0.012329624813369936
+  },
+  {
+    "id": 128,
+    "name": "straight",
+    "count": 236,
+    "pct": 0.011366372874825411
+  },
+  {
+    "id": 225,
+    "name": "single breasted",
+    "count": 231,
+    "pct": 0.011125559890189278
+  },
+  {
+    "id": 137,
+    "name": "loose (fit)",
+    "count": 218,
+    "pct": 0.010499446130135337
+  },
+  {
+    "id": 182,
+    "name": "round (neck)",
+    "count": 195,
+    "pct": 0.009391706400809132
+  },
+  {
+    "id": 305,
+    "name": "gathering",
+    "count": 154,
+    "pct": 0.007417039926792853
+  },
+  {
+    "id": 159,
+    "name": "three quarter (length)",
+    "count": 146,
+    "pct": 0.007031739151375042
+  },
+  {
+    "id": 147,
+    "name": "hip (length)",
+    "count": 144,
+    "pct": 0.006935413957520589
+  },
+  {
+    "id": 0,
+    "name": "classic (t-shirt)",
+    "count": 141,
+    "pct": 0.006790926166738911
+  },
+  {
+    "id": 127,
+    "name": "pencil",
+    "count": 133,
+    "pct": 0.0064056253913211
+  },
+  {
+    "id": 298,
+    "name": "washed",
+    "count": 132,
+    "pct": 0.006357462794393874
+  },
+  {
+    "id": 223,
+    "name": "curved (pocket)",
+    "count": 127,
+    "pct": 0.006116649809757742
+  },
+  {
+    "id": 325,
+    "name": "floral",
+    "count": 125,
+    "pct": 0.00602032461590329
+  },
+  {
+    "id": 207,
+    "name": "cap (sleeve)",
+    "count": 120,
+    "pct": 0.005779511631267158
+  },
+  {
+    "id": 155,
+    "name": "floor (length)",
+    "count": 119,
+    "pct": 0.005731349034339931
+  },
+  {
+    "id": 218,
+    "name": "patch (pocket)",
+    "count": 119,
+    "pct": 0.005731349034339931
+  },
+  {
+    "id": 185,
+    "name": "oval (neck)",
+    "count": 116,
+    "pct": 0.005586861243558253
+  },
+  {
+    "id": 158,
+    "name": "elbow-length",
+    "count": 116,
+    "pct": 0.005586861243558253
+  },
+  {
+    "id": 224,
+    "name": "flap (pocket)",
+    "count": 113,
+    "pct": 0.0054423734527765735
+  },
+  {
+    "id": 36,
+    "name": "jeans",
+    "count": 109,
+    "pct": 0.005249723065067669
+  },
+  {
+    "id": 222,
+    "name": "slash (pocket)",
+    "count": 108,
+    "pct": 0.005201560468140442
+  },
+  {
+    "id": 301,
+    "name": "printed",
+    "count": 105,
+    "pct": 0.005057072677358763
+  },
+  {
+    "id": 148,
+    "name": "micro (length)",
+    "count": 104,
+    "pct": 0.0050089100804315365
+  },
+  {
+    "id": 129,
+    "name": "a-line",
+    "count": 101,
+    "pct": 0.004864422289649858
+  },
+  {
+    "id": 108,
+    "name": "gown",
+    "count": 97,
+    "pct": 0.004671771901940952
+  },
+  {
+    "id": 304,
+    "name": "pleat",
+    "count": 97,
+    "pct": 0.004671771901940952
+  },
+  {
+    "id": 328,
+    "name": "stripe",
+    "count": 95,
+    "pct": 0.0045754467080865
+  },
+  {
+    "id": 140,
+    "name": "dropped waistline",
+    "count": 91,
+    "pct": 0.004382796320377595
+  },
+  {
+    "id": 38,
+    "name": "leggings",
+    "count": 90,
+    "pct": 0.004334633723450368
+  },
+  {
+    "id": 163,
+    "name": "shirt (collar)",
+    "count": 86,
+    "pct": 0.004141983335741463
+  },
+  {
+    "id": 150,
+    "name": "above-the-knee (length)",
+    "count": 84,
+    "pct": 0.0040456581418870105
+  },
+  {
+    "id": 205,
+    "name": "dropped-shoulder sleeve",
+    "count": 82,
+    "pct": 0.003949332948032558
+  },
+  {
+    "id": 183,
+    "name": "v-neck",
+    "count": 82,
+    "pct": 0.003949332948032558
+  },
+  {
+    "id": 318,
+    "name": "abstract",
+    "count": 81,
+    "pct": 0.0039011703511053317
+  },
+  {
+    "id": 200,
+    "name": "straight across (neck)",
+    "count": 79,
+    "pct": 0.003804845157250879
+  },
+  {
+    "id": 11,
+    "name": "tank (top)",
+    "count": 78,
+    "pct": 0.003756682560323653
+  },
+  {
+    "id": 114,
+    "name": "asymmetrical",
+    "count": 76,
+    "pct": 0.0036603573664692
+  },
+  {
+    "id": 311,
+    "name": "lining",
+    "count": 75,
+    "pct": 0.0036121947695419735
+  },
+  {
+    "id": 190,
+    "name": "scoop (neck)",
+    "count": 75,
+    "pct": 0.0036121947695419735
+  },
+  {
+    "id": 153,
+    "name": "midi",
+    "count": 71,
+    "pct": 0.0034195443818330683
+  },
+  {
+    "id": 17,
+    "name": "blazer",
+    "count": 67,
+    "pct": 0.003226893994124163
+  },
+  {
+    "id": 312,
+    "name": "applique(a)",
+    "count": 66,
+    "pct": 0.003178731397196937
+  },
+  {
+    "id": 151,
+    "name": "knee (length)",
+    "count": 66,
+    "pct": 0.003178731397196937
+  },
+  {
+    "id": 68,
+    "name": "sheath (skirt)",
+    "count": 65,
+    "pct": 0.0031305688002697105
+  },
+  {
+    "id": 50,
+    "name": "short (shorts)",
+    "count": 65,
+    "pct": 0.0031305688002697105
+  },
+  {
+    "id": 119,
+    "name": "fit and flare",
+    "count": 60,
+    "pct": 0.002889755815633579
+  },
+  {
+    "id": 326,
+    "name": "geometric",
+    "count": 58,
+    "pct": 0.0027934306217791264
+  },
+  {
+    "id": 189,
+    "name": "boat (neck)",
+    "count": 58,
+    "pct": 0.0027934306217791264
+  },
+  {
+    "id": 143,
+    "name": "low waist",
+    "count": 57,
+    "pct": 0.0027452680248519
+  },
+  {
+    "id": 219,
+    "name": "welt (pocket)",
+    "count": 56,
+    "pct": 0.0026971054279246735
+  },
+  {
+    "id": 174,
+    "name": "notched (lapel)",
+    "count": 55,
+    "pct": 0.0026489428309974476
+  },
+  {
+    "id": 187,
+    "name": "sweetheart (neckline)",
+    "count": 55,
+    "pct": 0.0026489428309974476
+  },
+  {
+    "id": 322,
+    "name": "check",
+    "count": 54,
+    "pct": 0.002600780234070221
+  },
+  {
+    "id": 281,
+    "name": "plastic",
+    "count": 54,
+    "pct": 0.002600780234070221
+  },
+  {
+    "id": 209,
+    "name": "puff (sleeve)",
+    "count": 53,
+    "pct": 0.0025526176371429947
+  },
+  {
+    "id": 102,
+    "name": "sheath (dress)",
+    "count": 50,
+    "pct": 0.002408129846361316
+  },
+  {
+    "id": 234,
+    "name": "no opening",
+    "count": 50,
+    "pct": 0.002408129846361316
+  },
+  {
+    "id": 106,
+    "name": "bodycon (dress)",
+    "count": 49,
+    "pct": 0.0023599672494340894
+  },
+  {
+    "id": 101,
+    "name": "shift (dress)",
+    "count": 48,
+    "pct": 0.002311804652506863
+  },
+  {
+    "id": 152,
+    "name": "below the knee (length)",
+    "count": 47,
+    "pct": 0.002263642055579637
+  },
+  {
+    "id": 314,
+    "name": "rivet(a)",
+    "count": 47,
+    "pct": 0.002263642055579637
+  },
+  {
+    "id": 8,
+    "name": "crop (top)",
+    "count": 46,
+    "pct": 0.0022154794586524106
+  },
+  {
+    "id": 10,
+    "name": "camisole",
+    "count": 46,
+    "pct": 0.0022154794586524106
+  },
+  {
+    "id": 117,
+    "name": "circle",
+    "count": 46,
+    "pct": 0.0022154794586524106
+  },
+  {
+    "id": 162,
+    "name": "regular (collar)",
+    "count": 46,
+    "pct": 0.0022154794586524106
+  },
+  {
+    "id": 213,
+    "name": "dolman (sleeve), batwing (sleeve)",
+    "count": 43,
+    "pct": 0.0020709916678707317
+  },
+  {
+    "id": 113,
+    "name": "skater (dress)",
+    "count": 42,
+    "pct": 0.0020228290709435053
+  },
+  {
+    "id": 323,
+    "name": "dot",
+    "count": 41,
+    "pct": 0.001974666474016279
+  },
+  {
+    "id": 186,
+    "name": "u-neck",
+    "count": 37,
+    "pct": 0.0017820160863073738
+  },
+  {
+    "id": 20,
+    "name": "biker (jacket)",
+    "count": 37,
+    "pct": 0.0017820160863073738
+  },
+  {
+    "id": 302,
+    "name": "ruched",
+    "count": 35,
+    "pct": 0.0016856908924529211
+  },
+  {
+    "id": 139,
+    "name": "empire waistline",
+    "count": 35,
+    "pct": 0.0016856908924529211
+  },
+  {
+    "id": 170,
+    "name": "stand-away (collar)",
+    "count": 35,
+    "pct": 0.0016856908924529211
+  },
+  {
+    "id": 120,
+    "name": "trumpet",
+    "count": 34,
+    "pct": 0.0016375282955256947
+  },
+  {
+    "id": 210,
+    "name": "bell (sleeve)",
+    "count": 34,
+    "pct": 0.0016375282955256947
+  },
+  {
+    "id": 297,
+    "name": "distressed",
+    "count": 33,
+    "pct": 0.0015893656985984685
+  },
+  {
+    "id": 132,
+    "name": "wide leg",
+    "count": 33,
+    "pct": 0.0015893656985984685
+  },
+  {
+    "id": 123,
+    "name": "bell",
+    "count": 32,
+    "pct": 0.001541203101671242
+  },
+  {
+    "id": 198,
+    "name": "turtle (neck)",
+    "count": 30,
+    "pct": 0.0014448779078167894
+  },
+  {
+    "id": 309,
+    "name": "slit",
+    "count": 30,
+    "pct": 0.0014448779078167894
+  },
+  {
+    "id": 289,
+    "name": "fur",
+    "count": 29,
+    "pct": 0.0013967153108895632
+  },
+  {
+    "id": 98,
+    "name": "slip (dress)",
+    "count": 29,
+    "pct": 0.0013967153108895632
+  },
+  {
+    "id": 192,
+    "name": "plunging (neckline)",
+    "count": 29,
+    "pct": 0.0013967153108895632
+  },
+  {
+    "id": 206,
+    "name": "raglan (sleeve)",
+    "count": 29,
+    "pct": 0.0013967153108895632
+  },
+  {
+    "id": 177,
+    "name": "napoleon (lapel)",
+    "count": 28,
+    "pct": 0.0013485527139623368
+  },
+  {
+    "id": 226,
+    "name": "double breasted",
+    "count": 27,
+    "pct": 0.0013003901170351106
+  },
+  {
+    "id": 286,
+    "name": "gem",
+    "count": 27,
+    "pct": 0.0013003901170351106
+  },
+  {
+    "id": 100,
+    "name": "jumper (dress)",
+    "count": 27,
+    "pct": 0.0013003901170351106
+  },
+  {
+    "id": 180,
+    "name": "asymmetric (neckline)",
+    "count": 26,
+    "pct": 0.0012522275201078841
+  },
+  {
+    "id": 126,
+    "name": "peg",
+    "count": 26,
+    "pct": 0.0012522275201078841
+  },
+  {
+    "id": 44,
+    "name": "sailor (pants)",
+    "count": 25,
+    "pct": 0.001204064923180658
+  },
+  {
+    "id": 130,
+    "name": "tent",
+    "count": 24,
+    "pct": 0.0011559023262534315
+  },
+  {
+    "id": 112,
+    "name": "tunic (dress)",
+    "count": 24,
+    "pct": 0.0011559023262534315
+  },
+  {
+    "id": 319,
+    "name": "cartoon",
+    "count": 23,
+    "pct": 0.0011077397293262053
+  },
+  {
+    "id": 202,
+    "name": "off-the-shoulder",
+    "count": 23,
+    "pct": 0.0011077397293262053
+  },
+  {
+    "id": 208,
+    "name": "tulip (sleeve)",
+    "count": 23,
+    "pct": 0.0011077397293262053
+  },
+  {
+    "id": 118,
+    "name": "flare",
+    "count": 22,
+    "pct": 0.0010595771323989788
+  },
+  {
+    "id": 79,
+    "name": "blanket (coat)",
+    "count": 22,
+    "pct": 0.0010595771323989788
+  },
+  {
+    "id": 300,
+    "name": "frayed",
+    "count": 21,
+    "pct": 0.0010114145354717526
+  },
+  {
+    "id": 176,
+    "name": "shawl (lapel)",
+    "count": 20,
+    "pct": 0.0009632519385445263
+  },
+  {
+    "id": 191,
+    "name": "square (neckline)",
+    "count": 20,
+    "pct": 0.0009632519385445263
+  },
+  {
+    "id": 9,
+    "name": "halter (top)",
+    "count": 20,
+    "pct": 0.0009632519385445263
+  },
+  {
+    "id": 138,
+    "name": "oversized",
+    "count": 19,
+    "pct": 0.0009150893416173
+  },
+  {
+    "id": 327,
+    "name": "paisley",
+    "count": 19,
+    "pct": 0.0009150893416173
+  },
+  {
+    "id": 121,
+    "name": "mermaid",
+    "count": 18,
+    "pct": 0.0008669267446900737
+  },
+  {
+    "id": 283,
+    "name": "metal",
+    "count": 18,
+    "pct": 0.0008669267446900737
+  },
+  {
+    "id": 95,
+    "name": "halter (dress)",
+    "count": 18,
+    "pct": 0.0008669267446900737
+  },
+  {
+    "id": 313,
+    "name": "bead(a)",
+    "count": 18,
+    "pct": 0.0008669267446900737
+  },
+  {
+    "id": 133,
+    "name": "high low",
+    "count": 18,
+    "pct": 0.0008669267446900737
+  },
+  {
+    "id": 77,
+    "name": "dirndl (skirt)",
+    "count": 18,
+    "pct": 0.0008669267446900737
+  },
+  {
+    "id": 13,
+    "name": "tube (top)",
+    "count": 18,
+    "pct": 0.0008669267446900737
+  },
+  {
+    "id": 215,
+    "name": "leg of mutton (sleeve)",
+    "count": 17,
+    "pct": 0.0008187641477628474
+  },
+  {
+    "id": 103,
+    "name": "shirt (dress)",
+    "count": 17,
+    "pct": 0.0008187641477628474
+  },
+  {
+    "id": 228,
+    "name": "wrapping",
+    "count": 17,
+    "pct": 0.0008187641477628474
+  },
+  {
+    "id": 21,
+    "name": "trucker (jacket)",
+    "count": 17,
+    "pct": 0.0008187641477628474
+  },
+  {
+    "id": 181,
+    "name": "crew (neck)",
+    "count": 17,
+    "pct": 0.0008187641477628474
+  },
+  {
+    "id": 178,
+    "name": "oversized (lapel)",
+    "count": 16,
+    "pct": 0.000770601550835621
+  },
+  {
+    "id": 125,
+    "name": "bootcut",
+    "count": 16,
+    "pct": 0.000770601550835621
+  },
+  {
+    "id": 307,
+    "name": "tiered",
+    "count": 16,
+    "pct": 0.000770601550835621
+  },
+  {
+    "id": 214,
+    "name": "bishop (sleeve)",
+    "count": 16,
+    "pct": 0.000770601550835621
+  },
+  {
+    "id": 29,
+    "name": "track (jacket)",
+    "count": 16,
+    "pct": 0.000770601550835621
+  },
+  {
+    "id": 144,
+    "name": "basque (wasitline)",
+    "count": 16,
+    "pct": 0.000770601550835621
+  },
+  {
+    "id": 194,
+    "name": "halter (neck)",
+    "count": 15,
+    "pct": 0.0007224389539083947
+  },
+  {
+    "id": 65,
+    "name": "skater (skirt)",
+    "count": 15,
+    "pct": 0.0007224389539083947
+  },
+  {
+    "id": 211,
+    "name": "circular flounce (sleeve)",
+    "count": 14,
+    "pct": 0.0006742763569811684
+  },
+  {
+    "id": 227,
+    "name": "lace up",
+    "count": 14,
+    "pct": 0.0006742763569811684
+  },
+  {
+    "id": 14,
+    "name": "tunic (top)",
+    "count": 14,
+    "pct": 0.0006742763569811684
+  },
+  {
+    "id": 303,
+    "name": "quilted",
+    "count": 13,
+    "pct": 0.0006261137600539421
+  },
+  {
+    "id": 166,
+    "name": "banded (collar)",
+    "count": 12,
+    "pct": 0.0005779511631267157
+  },
+  {
+    "id": 203,
+    "name": "one shoulder",
+    "count": 12,
+    "pct": 0.0005779511631267157
+  },
+  {
+    "id": 197,
+    "name": "high (neck)",
+    "count": 12,
+    "pct": 0.0005779511631267157
+  },
+  {
+    "id": 71,
+    "name": "rah-rah (skirt)",
+    "count": 12,
+    "pct": 0.0005779511631267157
+  },
+  {
+    "id": 134,
+    "name": "curved (fit)",
+    "count": 12,
+    "pct": 0.0005779511631267157
+  },
+  {
+    "id": 156,
+    "name": "sleeveless",
+    "count": 12,
+    "pct": 0.0005779511631267157
+  },
+  {
+    "id": 308,
+    "name": "cutout",
+    "count": 12,
+    "pct": 0.0005779511631267157
+  },
+  {
+    "id": 2,
+    "name": "undershirt",
+    "count": 12,
+    "pct": 0.0005779511631267157
+  },
+  {
+    "id": 81,
+    "name": "trench (coat)",
+    "count": 12,
+    "pct": 0.0005779511631267157
+  },
+  {
+    "id": 167,
+    "name": "mandarin (collar)",
+    "count": 12,
+    "pct": 0.0005779511631267157
+  },
+  {
+    "id": 109,
+    "name": "sweater (dress)",
+    "count": 12,
+    "pct": 0.0005779511631267157
+  },
+  {
+    "id": 46,
+    "name": "peg (pants)",
+    "count": 11,
+    "pct": 0.0005297885661994894
+  },
+  {
+    "id": 315,
+    "name": "sequin(a)",
+    "count": 11,
+    "pct": 0.0005297885661994894
+  },
+  {
+    "id": 179,
+    "name": "collarless",
+    "count": 11,
+    "pct": 0.0005297885661994894
+  },
+  {
+    "id": 212,
+    "name": "poet (sleeve)",
+    "count": 10,
+    "pct": 0.00048162596927226316
+  },
+  {
+    "id": 12,
+    "name": "peasant (top)",
+    "count": 10,
+    "pct": 0.00048162596927226316
+  },
+  {
+    "id": 324,
+    "name": "fair isle",
+    "count": 10,
+    "pct": 0.00048162596927226316
+  },
+  {
+    "id": 173,
+    "name": "oversized (collar)",
+    "count": 10,
+    "pct": 0.00048162596927226316
+  },
+  {
+    "id": 168,
+    "name": "peter pan (collar)",
+    "count": 10,
+    "pct": 0.00048162596927226316
+  },
+  {
+    "id": 107,
+    "name": "nightgown",
+    "count": 10,
+    "pct": 0.00048162596927226316
+  },
+  {
+    "id": 282,
+    "name": "rubber",
+    "count": 9,
+    "pct": 0.00043346337234503684
+  },
+  {
+    "id": 60,
+    "name": "lounge (shorts)",
+    "count": 9,
+    "pct": 0.00043346337234503684
+  },
+  {
+    "id": 67,
+    "name": "hobble (skirt)",
+    "count": 9,
+    "pct": 0.00043346337234503684
+  },
+  {
+    "id": 320,
+    "name": "letters, numbers",
+    "count": 9,
+    "pct": 0.00043346337234503684
+  },
+  {
+    "id": 22,
+    "name": "bomber (jacket)",
+    "count": 9,
+    "pct": 0.00043346337234503684
+  },
+  {
+    "id": 82,
+    "name": "pea (coat)",
+    "count": 8,
+    "pct": 0.0003853007754178105
+  },
+  {
+    "id": 104,
+    "name": "sundress",
+    "count": 8,
+    "pct": 0.0003853007754178105
+  },
+  {
+    "id": 199,
+    "name": "cowl (neck)",
+    "count": 8,
+    "pct": 0.0003853007754178105
+  },
+  {
+    "id": 340,
+    "name": "plant",
+    "count": 8,
+    "pct": 0.0003853007754178105
+  },
+  {
+    "id": 49,
+    "name": "crop (pants)",
+    "count": 8,
+    "pct": 0.0003853007754178105
+  },
+  {
+    "id": 131,
+    "name": "baggy",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 321,
+    "name": "camouflage",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 333,
+    "name": "leopard",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 16,
+    "name": "hoodie",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 105,
+    "name": "kaftan",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 306,
+    "name": "smocking",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 201,
+    "name": "illusion (neck)",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 93,
+    "name": "military (coat)",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 331,
+    "name": "chevron",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 52,
+    "name": "bermuda (shorts)",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 111,
+    "name": "blouson (dress)",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 175,
+    "name": "peak (lapel)",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 217,
+    "name": "cargo (pocket)",
+    "count": 7,
+    "pct": 0.0003371381784905842
+  },
+  {
+    "id": 5,
+    "name": "raglan (t-shirt)",
+    "count": 6,
+    "pct": 0.00028897558156335787
+  },
+  {
+    "id": 88,
+    "name": "kimono",
+    "count": 6,
+    "pct": 0.00028897558156335787
+  },
+  {
+    "id": 74,
+    "name": "accordion (skirt)",
+    "count": 6,
+    "pct": 0.00028897558156335787
+  },
+  {
+    "id": 7,
+    "name": "sailor (shirt)",
+    "count": 6,
+    "pct": 0.00028897558156335787
+  },
+  {
+    "id": 216,
+    "name": "kimono (sleeve)",
+    "count": 6,
+    "pct": 0.00028897558156335787
+  },
+  {
+    "id": 329,
+    "name": "houndstooth (pattern)",
+    "count": 6,
+    "pct": 0.00028897558156335787
+  },
+  {
+    "id": 184,
+    "name": "surplice (neck)",
+    "count": 6,
+    "pct": 0.00028897558156335787
+  },
+  {
+    "id": 220,
+    "name": "kangaroo (pocket)",
+    "count": 6,
+    "pct": 0.00028897558156335787
+  },
+  {
+    "id": 41,
+    "name": "culottes",
+    "count": 6,
+    "pct": 0.00028897558156335787
+  },
+  {
+    "id": 96,
+    "name": "wrap (dress)",
+    "count": 6,
+    "pct": 0.00028897558156335787
+  },
+  {
+    "id": 80,
+    "name": "parka",
+    "count": 5,
+    "pct": 0.00024081298463613158
+  },
+  {
+    "id": 86,
+    "name": "duster (coat)",
+    "count": 5,
+    "pct": 0.00024081298463613158
+  },
+  {
+    "id": 196,
+    "name": "choker (neck)",
+    "count": 5,
+    "pct": 0.00024081298463613158
+  },
+  {
+    "id": 92,
+    "name": "wrap (coat)",
+    "count": 5,
+    "pct": 0.00024081298463613158
+  },
+  {
+    "id": 32,
+    "name": "bolero",
+    "count": 5,
+    "pct": 0.00024081298463613158
+  },
+  {
+    "id": 122,
+    "name": "balloon",
+    "count": 5,
+    "pct": 0.00024081298463613158
+  },
+  {
+    "id": 310,
+    "name": "perforated",
+    "count": 4,
+    "pct": 0.00019265038770890526
+  },
+  {
+    "id": 37,
+    "name": "sweatpants",
+    "count": 4,
+    "pct": 0.00019265038770890526
+  },
+  {
+    "id": 57,
+    "name": "roll-up (shorts)",
+    "count": 4,
+    "pct": 0.00019265038770890526
+  },
+  {
+    "id": 337,
+    "name": "zebra",
+    "count": 4,
+    "pct": 0.00019265038770890526
+  },
+  {
+    "id": 39,
+    "name": "hip-huggers (pants)",
+    "count": 4,
+    "pct": 0.00019265038770890526
+  },
+  {
+    "id": 90,
+    "name": "dress (coat )",
+    "count": 4,
+    "pct": 0.00019265038770890526
+  },
+  {
+    "id": 330,
+    "name": "herringbone (pattern)",
+    "count": 4,
+    "pct": 0.00019265038770890526
+  },
+  {
+    "id": 233,
+    "name": "toggled (opening)",
+    "count": 4,
+    "pct": 0.00019265038770890526
+  },
+  {
+    "id": 4,
+    "name": "ringer (t-shirt)",
+    "count": 4,
+    "pct": 0.00019265038770890526
+  },
+  {
+    "id": 334,
+    "name": "snakeskin (pattern)",
+    "count": 4,
+    "pct": 0.00019265038770890526
+  },
+  {
+    "id": 290,
+    "name": "suede",
+    "count": 4,
+    "pct": 0.00019265038770890526
+  },
+  {
+    "id": 188,
+    "name": "queen anne (neck)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 69,
+    "name": "ball gown (skirt)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 84,
+    "name": "teddy bear (coat)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 70,
+    "name": "gypsy (skirt)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 339,
+    "name": "toile de jouy",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 221,
+    "name": "seam (pocket)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 232,
+    "name": "buckled (opening)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 15,
+    "name": "smock (top)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 18,
+    "name": "pea (jacket)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 42,
+    "name": "capri (pants)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 91,
+    "name": "duffle (coat)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 299,
+    "name": "embossed",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 335,
+    "name": "cheetah",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 3,
+    "name": "henley (shirt)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 43,
+    "name": "harem (pants)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 195,
+    "name": "crossover (neck)",
+    "count": 3,
+    "pct": 0.00014448779078167894
+  },
+  {
+    "id": 85,
+    "name": "puffer (coat)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 110,
+    "name": "tea (dress)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 89,
+    "name": "robe",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 94,
+    "name": "swing (coat)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 59,
+    "name": "culotte (shorts)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 72,
+    "name": "prairie (skirt)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 47,
+    "name": "camo (pants)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 83,
+    "name": "shearling (coat)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 332,
+    "name": "argyle",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 24,
+    "name": "safari (jacket)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 31,
+    "name": "chanel (jacket)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 1,
+    "name": "polo (shirt)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 285,
+    "name": "feather",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 30,
+    "name": "windbreaker",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 40,
+    "name": "cargo (pants)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 34,
+    "name": "varsity (jacket)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 19,
+    "name": "puffer (jacket)",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 124,
+    "name": "bell bottom",
+    "count": 2,
+    "pct": 9.632519385445263e-05
+  },
+  {
+    "id": 64,
+    "name": "wrap (skirt)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 292,
+    "name": "crocodile",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 63,
+    "name": "kilt",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 97,
+    "name": "chemise (dress)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 58,
+    "name": "tie-up (shorts)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 76,
+    "name": "tulip (skirt)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 294,
+    "name": "wood",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 28,
+    "name": "classic military (jacket)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 87,
+    "name": "raincoat",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 27,
+    "name": "norfolk (jacket)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 48,
+    "name": "track (pants)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 33,
+    "name": "tuxedo (jacket)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 54,
+    "name": "trunks",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 169,
+    "name": "bow (collar)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 35,
+    "name": "crop (jacket)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 75,
+    "name": "sarong (skirt)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 336,
+    "name": "peacock",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 293,
+    "name": "snakeskin",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 164,
+    "name": "polo (collar)",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  },
+  {
+    "id": 296,
+    "name": "burnout",
+    "count": 1,
+    "pct": 4.8162596927226314e-05
+  }
+]
