@@ -1,3 +1,8 @@
+# Arquivos grandes do dataset (>100MB — limite do GitHub)
+original_dataset/*.json
+final_datasets/instances_attributes_val2020_original.json
+analysis_outputs/instances_attributes_val2020_no_bbox.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

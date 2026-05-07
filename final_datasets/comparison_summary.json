@@ -1,8 +1,8 @@
 {
   "arquivo_original": {
     "path": "final_datasets\\instances_attributes_val2020_original.json",
-    "tamanho_bytes": 14533475,
-    "tamanho_mb": 13.86,
+    "tamanho_bytes": 542193045,
+    "tamanho_mb": 517.08,
     "chaves_topo": [
       "annotations",
       "attributes",
@@ -21,13 +21,13 @@
       "iscrowd",
       "segmentation"
     ],
-    "num_annotations": 8781,
-    "num_images": 1158
+    "num_annotations": 333401,
+    "num_images": 45623
   },
   "arquivo_limpo": {
     "path": "final_datasets\\instances_attributes_val2020_clean.json",
-    "tamanho_bytes": 891555,
-    "tamanho_mb": 0.85,
+    "tamanho_bytes": 32818400,
+    "tamanho_mb": 31.3,
     "chaves_topo": [
       "annotations",
       "attributes",
@@ -42,7 +42,7 @@
       "image_id",
       "iscrowd"
     ],
-    "num_annotations": 8781,
+    "num_annotations": 333401,
     "num_images": "removido"
   },
   "reducao_tamanho_pct": 93.9,
